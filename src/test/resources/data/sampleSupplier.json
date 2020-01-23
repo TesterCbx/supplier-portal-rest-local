@@ -1,0 +1,26 @@
+[
+  {
+    "supplierId": "371778",
+    "erpTypeQuickbooksCloud": {
+      "active": false,
+      "accessToken": "",
+      "realmId": "",
+      "companyInfo": null,
+      "tokenStatus": null,
+      "refreshToken": ""
+    },
+    "erpTypeQuickbooksDesktop": {
+      "active": false,
+      "attachmentsPath": "",
+      "companyName": ""
+    },
+    "erpTypeCSV": {
+      "active": true,
+      "csvTemplateType": "Standard",
+      "customerData": "",
+      "invoiceDataFile": "",
+      "isFileUploaded": false
+    },
+    "invoiceHeadersUpdateDate": ""
+  }
+]
